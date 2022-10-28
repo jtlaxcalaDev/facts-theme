@@ -2,6 +2,7 @@ main {
   height: 100vh;
   padding: 57px 27px;
   color: #2B283A;
+  background-color: #e6e7e8;
   background-image: url('../images/react-icon-light.png');
   background-repeat: no-repeat;
   background-position: right 50%;
@@ -10,7 +11,7 @@ main {
 main.dark {
   background-image: url("../images/react-icon-dark.png"); 
   background-color: #282D35;
-  color: white;    
+  color: #e6e7e8;    
 }
 
 .main--title {

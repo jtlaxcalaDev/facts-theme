@@ -5,7 +5,7 @@
 nav {
   display: flex;
   align-items: center;
-  background-color: #ffffff;
+  background-color: #dddddd;
   padding: 30px 25px;
   height: 60px;
   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
@@ -32,7 +32,7 @@ nav.dark {
 }
 
 nav.dark .nav--title {
-  color: #ffffff;
+  color: #e6e7e8;
 }
 
 .nav--icon {
@@ -65,14 +65,14 @@ nav.dark .nav--title {
 }
 
 nav.dark .toggler--slider {
-  border-color: white;
-  background-color: #F5F5F5;
+  border-color: #e6e7e8;
+  background-color: #e6e7e8;
 }
 
 .toggler--slider--circle {
   height: 13px;
   width: 13px;
-  background-color: white;
+  background-color: #e6e7e8;
   border-radius: 50%;
 }
 
@@ -85,15 +85,15 @@ nav.dark .toggler--slider--circle {
 }
 
 nav.dark .toggler--light {
-  color: #918E9B;
+  color: #e6e7e8;
 }
 
 .toggler--dark {
-  color: #D5D4D8;
+  color: #2B283A;
 }
 
-nav.dark .toggler-dark {
-  color: #FFFFFF;
+nav.dark .toggler--dark {
+  color: #e6e7e8;
 }
 
 nav.dark .toggler--slider {
